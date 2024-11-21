@@ -44,7 +44,7 @@ To run this project locally, follow the steps below:
     npm start
     ```
 
-The game should now be running on [http://localhost:3000](http://localhost:3000).
+The game should now be running on [http://localhost:3000](http://localhost:5173/).
 
 ## How to Play
 
