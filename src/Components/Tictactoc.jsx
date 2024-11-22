@@ -55,7 +55,7 @@ export const Tictactoc = () => {
     setLock(false);
     data = ["", "", "", "", "", "", "", "", ""];
     setCount(0);
-    titleRef.current.innerHTML = 'Tic Tac Toe Game in React';
+    titleRef.current.innerHTML = 'Tic Tac Toe Game ';
     boxRefs.forEach(ref => {
       ref.current.innerHTML = "";
     });
